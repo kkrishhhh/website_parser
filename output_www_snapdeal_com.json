@@ -1,0 +1,11 @@
+{
+  "login_flow": {
+    "EmailInput": "input.col-xs-15.subscribeInputBox"
+  },
+  "nav_home": {
+    "HomeLink": "a.brandLabelFooter"
+  },
+  "nav_contact_us": {
+    "ContactLink": "a.underLineOnHover"
+  }
+}
