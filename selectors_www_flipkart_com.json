@@ -1,0 +1,74 @@
+{
+  "login_flow": {
+    "explore plus\nlogin\nbecome a seller\nmore\ncart": "div.Ja1j8k",
+    "login": "span.KIOyzU",
+    "login\nget access to your orders, wishlist and recommendations": "div.Q+Pbkc",
+    "enter email/mobile number": "label.Gq-80a",
+    "request otp": "button.QqFHMw"
+  },
+  "create_account_flow": {
+    "new to flipkart? create an account": "a.azBkHf"
+  },
+  "search_flow": {},
+  "terms_of_use": {
+    "by continuing, you agree to flipkart's terms of use and privacy policy.": "div.EpHS0A",
+    "terms of use": "a.bXmsT+",
+    "privacy policy": "a.c9RDXR",
+    "consumer policy": "div.AZc3lB",
+    "privacy": "a.bXmsT+"
+  },
+  "nav_home": {
+    "explore plus": "a.MwbhDR",
+    "home & furniture": "span.TSD49J",
+    "flights": "a.TSD49J",
+    "offer zone": "a.TSD49J"
+  },
+  "footer_links": {
+    "about\ncontact us\nabout us\ncareers\nflipkart stories\npress\ncorporate information": "div.bowO0w",
+    "about": "div.AZc3lB",
+    "contact us": "a.bXmsT+",
+    "about us": "a.bXmsT+",
+    "careers": "a.bXmsT+",
+    "help\npayments\nshipping\ncancellation & returns\nfaq": "div.bowO0w",
+    "faq": "a.bXmsT+"
+  },
+  "help_flow": {
+    "help": "div.AZc3lB",
+    "become a seller\nadvertise\ngift cards\nhelp center\n© 2007-2025 flipkart.com": "div.pXtEV2",
+    "help center": "span.XqVBP0"
+  },
+  "other": {
+    "plus": "span.s4NJ5L",
+    "become a seller": "span.XqVBP0",
+    "more": "div._3ZeUN+",
+    "cart": "a._9Wy27C",
+    "electronics": "span.TSD49J",
+    "tvs & appliances": "span.TSD49J",
+    "men": "span.TSD49J",
+    "women": "span.TSD49J",
+    "baby & kids": "span.TSD49J",
+    "sports, books & more": "span.TSD49J",
+    "get access to your orders, wishlist and recommendations": "p.FgTkdt",
+    "flipkart stories": "a.bXmsT+",
+    "press": "a.bXmsT+",
+    "corporate information": "a.bXmsT+",
+    "group companies\nmyntra\ncleartrip\nshopsy": "div.bowO0w",
+    "group companies": "div.AZc3lB",
+    "myntra": "a.bXmsT+",
+    "cleartrip": "a.bXmsT+",
+    "shopsy": "a.bXmsT+",
+    "payments": "a.bXmsT+",
+    "shipping": "a.bXmsT+",
+    "cancellation & returns": "a.bXmsT+",
+    "security": "a.bXmsT+",
+    "sitemap": "a.bXmsT+",
+    "grievance redressal": "a.bXmsT+",
+    "epr compliance": "a.bXmsT+",
+    "mail us:": "div.AZc3lB",
+    "social": "div.AZc3lB",
+    "registered office address:": "div.AZc3lB",
+    "advertise": "span.XqVBP0",
+    "gift cards": "span.XqVBP0",
+    "© 2007-2025 flipkart.com": "span.T8+RtG"
+  }
+}
