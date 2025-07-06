@@ -1,7 +1,0 @@
-{
-  "login_flow": {
-    "EmailInput": "input#username.form-control",
-    "PasswordInput": "input#password.form-control",
-    "SubmitButton": "input.btn.btn-primary"
-  }
-}
