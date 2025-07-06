@@ -1,11 +1,102 @@
 {
-  "login_flow": {
-    "EmailInput": "input.col-xs-15.subscribeInputBox"
-  },
-  "nav_home": {
-    "HomeLink": "a.brandLabelFooter"
-  },
-  "nav_contact_us": {
-    "ContactLink": "a.underLineOnHover"
-  }
+  "login_flow": [
+    {
+      "tag": "html",
+      "text": "MANAGE YOUR ORDERS\nTrack orders, manage cancellations & returns.\nAWESOME OFFERS UPDATES FOR YOU\nBe first to know about great offers and save.\nLogin/Sign Up On Snapdeal\nPlease provide your Mobile Number or Email to Login/ Sign Up on Snapdeal\nCONTINUE\nor Login Using\nGoogle"
+    },
+    {
+      "tag": "body",
+      "text": "MANAGE YOUR ORDERS\nTrack orders, manage cancellations & returns.\nAWESOME OFFERS UPDATES FOR YOU\nBe first to know about great offers and save.\nLogin/Sign Up On Snapdeal\nPlease provide your Mobile Number or Email to Login/ Sign Up on Snapdeal\nCONTINUE\nor Login Using\nGoogle"
+    },
+    {
+      "tag": "header",
+      "text": "MANAGE YOUR ORDERS\nTrack orders, manage cancellations & returns.\nAWESOME OFFERS UPDATES FOR YOU\nBe first to know about great offers and save.\nLogin/Sign Up On Snapdeal\nPlease provide your Mobile Number or Email to Login/ Sign Up on Snapdeal\nCONTINUE\nor Login Using\nGoogle"
+    },
+    {
+      "tag": "div",
+      "text": "MANAGE YOUR ORDERS\nTrack orders, manage cancellations & returns.\nAWESOME OFFERS UPDATES FOR YOU\nBe first to know about great offers and save.\nLogin/Sign Up On Snapdeal\nPlease provide your Mobile Number or Email to Login/ Sign Up on Snapdeal\nCONTINUE\nor Login Using\nGoogle"
+    },
+    {
+      "tag": "div",
+      "text": "MANAGE YOUR ORDERS\nTrack orders, manage cancellations & returns.\nAWESOME OFFERS UPDATES FOR YOU\nBe first to know about great offers and save.\nLogin/Sign Up On Snapdeal\nPlease provide your Mobile Number or Email to Login/ Sign Up on Snapdeal\nCONTINUE\nor Login Using\nGoogle"
+    },
+    {
+      "tag": "div",
+      "text": "MANAGE YOUR ORDERS\nTrack orders, manage cancellations & returns.\nAWESOME OFFERS UPDATES FOR YOU\nBe first to know about great offers and save.\nLogin/Sign Up On Snapdeal\nPlease provide your Mobile Number or Email to Login/ Sign Up on Snapdeal\nCONTINUE\nor Login Using\nGoogle"
+    },
+    {
+      "tag": "div",
+      "text": "Login/Sign Up On Snapdeal\nPlease provide your Mobile Number or Email to Login/ Sign Up on Snapdeal\nCONTINUE\nor Login Using\nGoogle"
+    },
+    {
+      "tag": "div",
+      "text": "Login/Sign Up On Snapdeal\nPlease provide your Mobile Number or Email to Login/ Sign Up on Snapdeal\nCONTINUE\nor Login Using\nGoogle"
+    },
+    {
+      "tag": "header",
+      "text": "Login/Sign Up On Snapdeal"
+    },
+    {
+      "tag": "p",
+      "text": "Please provide your Mobile Number or Email to Login/ Sign Up on Snapdeal"
+    },
+    {
+      "tag": "div",
+      "text": "or Login Using\nGoogle"
+    },
+    {
+      "tag": "div",
+      "text": "or Login Using"
+    }
+  ],
+  "nav_links": [],
+  "footer_links": [
+    {
+      "tag": "ul",
+      "text": "MANAGE YOUR ORDERS\nTrack orders, manage cancellations & returns.\nAWESOME OFFERS UPDATES FOR YOU\nBe first to know about great offers and save."
+    },
+    {
+      "tag": "li",
+      "text": "AWESOME OFFERS UPDATES FOR YOU\nBe first to know about great offers and save."
+    },
+    {
+      "tag": "p",
+      "text": "Be first to know about great offers and save."
+    }
+  ],
+  "terms_of_use": [],
+  "other": [
+    {
+      "tag": "li",
+      "text": "MANAGE YOUR ORDERS\nTrack orders, manage cancellations & returns."
+    },
+    {
+      "tag": "h4",
+      "text": "MANAGE YOUR ORDERS"
+    },
+    {
+      "tag": "p",
+      "text": "Track orders, manage cancellations & returns."
+    },
+    {
+      "tag": "h4",
+      "text": "AWESOME OFFERS UPDATES FOR YOU"
+    },
+    {
+      "tag": "form",
+      "text": "CONTINUE"
+    },
+    {
+      "tag": "button",
+      "text": "CONTINUE"
+    },
+    {
+      "tag": "div",
+      "text": "Google"
+    },
+    {
+      "tag": "span",
+      "text": "Google"
+    }
+  ]
 }
